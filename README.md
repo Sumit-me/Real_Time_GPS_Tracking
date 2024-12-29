@@ -6,14 +6,16 @@ The GPS Tracking System is a web application built with React, TypeScript, and V
 
 ## Features ##
 * User authentication (login and registration)
-Real-time location tracking
-Admin dashboard to view user locations
-Responsive design with Tailwind CSS
-Notifications using React Hot Toast
-Technologies Used
+* Real-time location tracking
+* Admin dashboard to view user locations
+* Responsive design with Tailwind CSS
+* Notifications using React Hot Toast
 
-#Frontend:
-React
+  
+## Technologies Used ##
+
+*Frontend:
+  * React
 TypeScript
 Vite
 Tailwind CSS
