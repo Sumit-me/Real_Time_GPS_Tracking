@@ -1,6 +1,6 @@
 App Url: https://shiny-capybara-bdd33d.netlify.app/
 
-#GPS Tracking System
+##GPS Tracking System
 Overview
 The GPS Tracking System is a web application built with React, TypeScript, and Vite. It allows users to track their location in real-time and provides an admin dashboard for managing user locations. The application uses Supabase for authentication and data storage.
 
